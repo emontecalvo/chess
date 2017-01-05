@@ -66,9 +66,9 @@ class Game
 
 end
 
-matt = Player.new("Matt")
-emily = Player.new("Emily")
+white = Player.new("WHITE")
+black = Player.new("BLACK")
 
-game = Game.new(matt, emily)
+game = Game.new(white, black)
 # game.play_turn
 game.run

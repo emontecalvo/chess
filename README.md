@@ -1,7 +1,7 @@
 #CHESS#
 A beginner chess-player's console game built with Ruby.
 
-![Alt text](./chess_cvr.png?raw=true "Chess")
+
 ![Alt text](./chess.png?raw=true "Chess")
 
 
@@ -41,4 +41,4 @@ Future updates for this project include:
 	* beginner, intermediate, advanced options
 * Add extra chess moves, such as castling
 
-
+->![Alt text](./chess_cvr.png?raw=true "Chess")<-

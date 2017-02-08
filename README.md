@@ -33,7 +33,7 @@ If the move is invalid, the game will let you know and will not continue until y
 ###TECHNOLOGY:###
 * Ruby gems used:  io-console (https://rubygems.org/gems/io-console/versions/0.4.2), colorize (https://rubygems.org/gems/colorize/versions/0.7.7), and Singleton (https://ruby-doc.org/stdlib-1.9.3/libdoc/singleton/rdoc/Singleton.html).
 
-*Unicode characters for chess pieces used (https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode).
+* Unicode characters for chess pieces used (https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode).
 
 * This code was written following the Ruby style guide and is object-oriented.
 
